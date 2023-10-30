@@ -1,0 +1,8 @@
+Action of path 'straight': 1.57165 + 3.19807 = 4.76972
+Action of path 'zeta first': 3.78446 + 3.03421 = 6.81868
+Action of path 'theta first': 2.42976 + 3.38822 = 5.81799
+Action of path 'zeta para conv down': 1.46032 + 3.32101 = 4.78133
+Action of path 'zeta para conv up': 1.69344 + 3.08568 = 4.77912
+Action of path 'theta para conv down': 2.32367 + 3.19807 = 5.52175
+Action of path 'theta para conv up': 1.86088 + 3.19807 = 5.05896
+Action of path 'best path': 1.58055 + 3.16115 = 4.7417

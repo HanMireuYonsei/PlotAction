@@ -1,0 +1,16 @@
+tau: 0, zeta: 0.9, theta: 0
+tau: 0.213377, zeta: 0.915, theta: 0.20944
+tau: 0.426754, zeta: 0.93, theta: 0.418879
+tau: 0.640131, zeta: 0.945, theta: 0.628319
+tau: 0.853508, zeta: 0.96, theta: 0.837758
+tau: 1.06688, zeta: 0.975, theta: 1.0472
+tau: 1.28026, zeta: 0.99, theta: 1.25664
+tau: 1.49364, zeta: 1.005, theta: 1.46608
+tau: 1.70702, zeta: 1.02, theta: 1.67552
+tau: 1.92039, zeta: 1.035, theta: 1.88496
+tau: 2.13377, zeta: 1.05, theta: 2.0944
+tau: 2.34715, zeta: 1.065, theta: 2.30383
+tau: 2.56052, zeta: 1.08, theta: 2.51327
+tau: 2.7739, zeta: 1.095, theta: 2.72271
+tau: 2.98728, zeta: 1.11, theta: 2.93215
+tau: 3.20065, zeta: 1.125, theta: 3.14159
